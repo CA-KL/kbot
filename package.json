@@ -1,0 +1,20 @@
+{
+  "name": "kbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "keleleo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  }
+}
